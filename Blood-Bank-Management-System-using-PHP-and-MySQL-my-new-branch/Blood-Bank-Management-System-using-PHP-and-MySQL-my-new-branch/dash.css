@@ -1,0 +1,30 @@
+body {
+    background-color: #E0EAFC;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #CFDEF3, #E0EAFC);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #CFDEF3, #E0EAFC);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    ;
+}
+
+.colll {
+    background-color: rgb(137, 147, 4);
+}
+
+
+.logo {
+    width: 6%;
+    margin-right: 35%;
+    border-radius: 25px;
+    margin-left: 30px;
+}
+.mtext{
+    text-align: center;
+    color: #FF0000;
+    padding: 10px;
+    font-weight: 700;
+    /* text-decoration: underline; */
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
